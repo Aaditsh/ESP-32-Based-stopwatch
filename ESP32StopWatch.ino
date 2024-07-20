@@ -146,7 +146,7 @@ void loop() {
   display.println(mm);
   display.println(ss);
   display.setTextSize(2);
-  display.println("PATENTED");
+  display.println("STOPWATCH");
   display.display();
   delay(980);
   display.clearDisplay();
